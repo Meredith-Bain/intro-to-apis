@@ -1,0 +1,16 @@
+{
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MN",
+    "regionName": "Minnesota",
+    "city": "Minneapolis",
+    "zip": "55410",
+    "lat": 44.9152,
+    "lon": -93.3222,
+    "timezone": "America/Chicago",
+    "isp": "CenturyLink Communications, LLC",
+    "org": "CenturyLink Communications, LLC",
+    "as": "AS209 CenturyLink Communications, LLC",
+    "query": "67.4.237.162"
+}
